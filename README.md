@@ -2,7 +2,7 @@
 
 ### Hola! Aquí [Malcolm Di Pietro](https://malcolmdpc.github.io) 👋
 
-Soy un apacionado por el mundo de los datos, trabajo hace 8 años creando soluciones matemáticas/estadísticas en diversas industrias (bancaria, alimenticia, editorial, retails, farmacéutica y empresas fintech).
+Soy un apasionado por el mundo de los datos, trabajo hace ocho años creando soluciones matemáticas/estadísticas en diversas industrias (bancaria, alimenticia, editorial, retails, farmacéutica y empresas fintech).
 Mis principales tareas son: el desarrollo, implementación, instalación, testeo y mantenimiento de modelos de machine learning, como por ejemplo forecast de ventas, modelos de behavior crediticio, attrition de tarjetas de crédito, churn de clientes y clusters de préstamos bancarios.
 
 Mi principal objetivo es ayudar a los clientes en el diseño y la implantación de mejoras tangibles y duraderas en sus operaciones y proyectos.
