@@ -1,3 +1,5 @@
+![Banner de LinkedIn Tecnología Negro (3)](https://github.com/malcolmdpc/malcolmdpc/assets/147994979/088046cd-7ab3-4c5d-9368-41260a6894fe)
+
 ### Hola! Aquí [Malcolm Di Pietro](https://malcolmdpc.github.io) 👋
 
 Soy un apacionado por el mundo de los datos, trabajo hace 8 años creando soluciones matemáticas/estadísticas en diversas industrias (bancaria, alimenticia, editorial, retails, farmacéutica y empresas fintech).
