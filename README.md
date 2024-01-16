@@ -16,17 +16,17 @@ Mi principal objetivo es ayudar a los clientes en el diseño y la implantación 
 
  **Estoy disponible para**:
 
-- trabajos de colaboración / freelance
-- proyectos de larga duración
+- Trabajos de colaboración / freelance
+- Proyectos de larga duración
 
 ## Skills:
 
-#### Lenguajes:
+#### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### ML/DL
+#### Librerías de Machine Learning (Python)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -37,14 +37,13 @@ Mi principal objetivo es ayudar a los clientes en el diseño y la implantación 
 #### Base de datos
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white))&nbsp;
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)&nbsp;
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 #### Herramientas y Tecnologías
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![IBM SPSS Modeler](https://img.shields.io/badge/IBM-#052FAD?style=flat&logo=IBM&logoColor=white)
 
 #### IDEs
 
