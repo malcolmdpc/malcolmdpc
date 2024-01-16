@@ -86,6 +86,16 @@ Mi principal objetivo es ayudar a los clientes en el diseño y la implantación 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+## Contacta conmigo:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/mbadpc)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://malcolmdpc.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/malcolmdpc/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@malcolmdpc)
+</p>
+
 
 <!--
 **malcolmdpc/malcolmdpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
