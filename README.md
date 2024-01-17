@@ -1,4 +1,4 @@
-![Banner de LinkedIn Tecnología Negro (3)](https://github.com/malcolmdpc/malcolmdpc/assets/147994979/088046cd-7ab3-4c5d-9368-41260a6894fe)
+![banner_principal](https://github.com/malcolmdpc/malcolmdpc/assets/147994979/4fb97f2a-aa9f-45a1-b705-4f9fe1f6bf03)
 
 ### Hola! Aquí [Malcolm Di Pietro](https://malcolmdpc.github.io) 👋
 
@@ -10,7 +10,7 @@ Mi principal objetivo es ayudar a los clientes en el diseño y la implantación 
 
 
 **Mi interés**:
-- Desarrollo de modelos de machine learning
+- Desarrollo de modelos de Machine Learning
 - Optimización de procesos
 - Ciencia de datos
 - Análisis de mejoras
@@ -18,7 +18,7 @@ Mi principal objetivo es ayudar a los clientes en el diseño y la implantación 
 
  **Estoy disponible para**:
 
-- Trabajos de colaboración / freelance
+- Trabajos de colaboración / Freelance
 - Proyectos de larga duración
 
 ## Skills:
