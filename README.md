@@ -1,4 +1,4 @@
-![banner_principal](https://github.com/malcolmdpc/malcolmdpc/assets/147994979/4fb97f2a-aa9f-45a1-b705-4f9fe1f6bf03)
+![banner_principal](https://github.com/user-attachments/assets/f7232a47-7082-4a8f-92e9-6c6d602a4e4f)
 
 ### Hola! Aquí [Malcolm Di Pietro](https://malcolmdpc.github.io) 👋
 
