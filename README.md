@@ -1,115 +1,130 @@
-![banner_principal](https://github.com/user-attachments/assets/32ab93e2-cb4f-42fe-9d29-0cba7e90da7c)
+# Hola, soy Malcolm Di Pietro Cagliari 👋  
+🔹 Senior Data Analyst · Data Partner · Business Intelligence  
 
-### Hola! Aquí [Malcolm Di Pietro](https://malcolmdpc.github.io) 👋
+Soy Licenciado en Ciencias Actuariales, con más de 8 años de experiencia profesional en análisis de datos, Business Intelligence y modelización estadística aplicada a negocio.  
+Trabajo como nexo entre áreas de negocio y equipos técnicos, ayudando a traducir necesidades estratégicas en soluciones de datos sólidas, escalables y gobernadas.
 
-Soy un apasionado por el mundo de los datos, trabajo hace ocho años creando soluciones matemáticas/estadísticas en diversas industrias (bancaria, alimenticia, editorial, retails, farmacéutica y empresas fintech).
-Mis principales tareas son: el desarrollo, implementación, instalación, testeo y mantenimiento de modelos de machine learning, como por ejemplo forecast de ventas, modelos de behavior crediticio, attrition de tarjetas de crédito, churn de clientes y clusters de préstamos bancarios.
+He trabajado en seguros, banca, fintech y aviación, en entornos corporativos reales, con datos complejos, procesos legacy y fuertes requerimientos regulatorios.
 
-Mi principal objetivo es ayudar a los clientes en el diseño y la implantación de mejoras tangibles y duraderas en sus operaciones y proyectos.
+---
+
+## Propuesta de valor
+
+- Traducción de problemas de negocio en modelos de datos y soluciones analíticas.
+- Experiencia real en BI corporativo, reporting ejecutivo y definición de KPIs.
+- Diseño de modelos conceptuales y lógicos de datos.
+- Enfoque en gobernanza del dato, trazabilidad y calidad.
+- Capacidad de comunicar con claridad a perfiles técnicos y no técnicos.
+- Base actuarial aplicada a decisiones bajo incertidumbre.
+
+---
+
+## Qué hago hoy
+
+- Business Intelligence corporativo end-to-end  
+- Definición y estandarización de KPIs  
+- Modelado de dominios de datos  
+- Análisis exploratorio y analítica avanzada  
+- Soporte analítico a decisiones estratégicas  
+- Coordinación de pruebas UAT con negocio  
+- Colaboración con Data Engineers e IT  
+
+---
+
+## Gestión de Proyectos
+
+- Empiezo por el objetivo de negocio, no por la herramienta.
+- Diseño soluciones alineadas a estrategia, regulación y gobierno del dato.
+- Evalúo trade-offs: valor analítico vs complejidad · rapidez vs sostenibilidad · técnica vs adopción.
+- Documento reglas de negocio, supuestos y dependencias.
+- Pienso en uso efectivo, mantenimiento y escalabilidad desde el inicio.
+
+---
+
+## Experiencia profesional (resumen)
+
+**AXA Seguros** — *Senior Data Analyst / Data Partner*  
+- Nexo entre negocio y equipos técnicos en iniciativas de datos.  
+- Diseño de modelos de datos y definición de reglas de negocio.  
+- Gobernanza del dato (GDPR, SSOT), KPIs y UAT.
+
+**World2Fly (Aerolínea)** — *Business Intelligence Specialist*  
+- Reporting corporativo para múltiples áreas de gestión.  
+- Liderazgo de proyectos BI de punta a punta.  
+- Trabajo conjunto con Data Engineers y optimización de modelos BI.
+
+**Air Europa** — *Técnico en Sistemas de Gestión*  
+- Migración de sistemas de gestión y transformación de datos.  
+- Dashboards ejecutivos en Power BI.
+
+**BeSmart (Consultoría Estadística)** — *Modelos predictivos*  
+- Forecast, churn, attrition, segmentación y clustering.  
+- Implementación, seguimiento y automatización de modelos.  
+- Clientes de banca, retail y sector financiero.
+
+---
+
+## 🛠️ Stack principal
+
+### 🧠 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+---
+
+### 📊 Análisis y modelado
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+
+---
+
+### 🗄️ Datos & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+
+---
+
+### ☁️ Plataformas
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
+
+---
+
+### 🔧 Entorno
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+---
 
-**Mi interés**:
-- Desarrollo de modelos de Machine Learning
-- Optimización de procesos
-- Ciencia de datos
-- Análisis de mejoras
-- Generación de conocimiento
+## Perfil profesional
 
- **Estoy disponible para**:
+Data analyst con base actuarial y experiencia transversal en Business Intelligence, análisis avanzado y modelado de datos, orientado a generar valor real para el negocio. 
 
-- Trabajos de colaboración / Freelance
-- Proyectos de larga duración
+---
 
-## Skills:
+## Contacto
 
-#### Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### Librerías de Machine Learning (Python)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?tyle=for-the-badge&logo=Matplotlib&logoColor=black)
-
-#### Base de datos
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)&nbsp;
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-
-#### Herramientas y Tecnologías
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-
-#### IDEs
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-#### Dashboards
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### Blog
-
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-#### Investigación y Foros
-
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-#### Ofimática
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
-![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)&nbsp;
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)&nbsp;
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)&nbsp;
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)&nbsp;
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)&nbsp;
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)&nbsp;
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)&nbsp;
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-## Contacta conmigo:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/mbadpc)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://malcolmdpc.github.io)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/malcolmdpc/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@malcolmdpc)
+<p align="center">
+  <a href="https://www.linkedin.com/in/malcolmdpc/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/malcolmdpc">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://malcolmdpc.github.io">
+    <img src="https://img.shields.io/badge/Web-black?style=for-the-badge&logo=www&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/mbadpc">
+    <img src="https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
-
-
-<!--
-**malcolmdpc/malcolmdpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
