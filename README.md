@@ -1,3 +1,6 @@
+![banner_principal](https://github.com/user-attachments/assets/32ab93e2-cb4f-42fe-9d29-0cba7e90da7c)
+
+
 # Hola, soy Malcolm Di Pietro Cagliari 👋  
 🔹 Senior Data Analyst · Data Partner · Business Intelligence  
 
