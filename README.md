@@ -1,8 +1,7 @@
 ![banner_principal](https://github.com/user-attachments/assets/32ab93e2-cb4f-42fe-9d29-0cba7e90da7c)
 
 
-# Hola, soy Malcolm Di Pietro Cagliari 👋  
-🔹 Senior Data Analyst · Data Partner · Business Intelligence  
+# Hola, soy Malcolm Di Pietro Cagliari 👋
 
 Soy Licenciado en Ciencias Actuariales, con más de 8 años de experiencia profesional en análisis de datos, Business Intelligence y modelización estadística aplicada a negocio.  
 Trabajo como nexo entre áreas de negocio y equipos técnicos, ayudando a traducir necesidades estratégicas en soluciones de datos sólidas, escalables y gobernadas.
