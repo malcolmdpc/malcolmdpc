@@ -1,4 +1,4 @@
-![banner_principal](https://github.com/user-attachments/assets/e23b913a-67fc-4f51-bcbd-dafcc8496940)
+![banner_principal](https://github.com/user-attachments/assets/59dc2a20-0df1-4457-bb9a-77891c240676)
 
 
 # Hola, soy Malcolm Di Pietro Cagliari 👋
