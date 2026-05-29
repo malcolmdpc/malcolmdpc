@@ -1,9 +1,9 @@
 ![banner_principal](https://github.com/user-attachments/assets/59dc2a20-0df1-4457-bb9a-77891c240676)
 
 
-# Hola, soy Malcolm Di Pietro Cagliari 👋
+# Hola, soy Malcolm 👋🏼
 
-Soy Licenciado en Ciencias Actuariales, con más de 8 años de experiencia profesional en análisis de datos, Business Intelligence y modelización estadística aplicada a negocio.  
+Soy Licenciado en Ciencias Actuariales, con 10 años de experiencia profesional en análisis de datos, Business Intelligence y modelización estadística aplicada a negocio.  
 Trabajo como nexo entre áreas de negocio y equipos técnicos, ayudando a traducir necesidades estratégicas en soluciones de datos sólidas, escalables y gobernadas.
 
 He trabajado en seguros, banca, fintech y aviación, en entornos corporativos reales, con datos complejos, procesos legacy y fuertes requerimientos regulatorios.
@@ -64,6 +64,8 @@ He trabajado en seguros, banca, fintech y aviación, en entornos corporativos re
 - Implementación, seguimiento y automatización de modelos.  
 - Clientes de banca, retail y sector financiero.
 
+Para mayor detalle: [LinkedIn](https://www.linkedin.com/in/malcolmdpc)
+
 ---
 
 ## 🛠️ Stack principal
@@ -110,7 +112,7 @@ He trabajado en seguros, banca, fintech y aviación, en entornos corporativos re
 
 ## Perfil profesional
 
-Data analyst con base actuarial y experiencia transversal en Business Intelligence, análisis avanzado y modelado de datos, orientado a generar valor real para el negocio. 
+Data analyst con base actuarial y experiencia transversal en Business Intelligence, análisis avanzado y machine learning, orientado a generar valor real para el negocio. 
 
 ---
 
